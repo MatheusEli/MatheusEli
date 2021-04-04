@@ -5,7 +5,6 @@
 <a href="https://github.com/MatheusEli">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusEli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusEli&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://wakatime.com/share/@6460eaec-e176-4150-9862-e2aebe3768db/bcd5ef13-7bb8-447e-8c67-43dae7eb23c4.svg"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
