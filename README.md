@@ -24,3 +24,10 @@
   <a href="https://www.instagram.com/matheuseli12/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://account.xbox.com/en-us/profile?gamertag=Matheuseli" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
+
+
+  ##
+  
+<p align = "center"> 
+  <img height="400em" src="https://wakatime.com/share/@MatheusEli/d120d205-0510-4731-b470-486fa68f73d9.svg"/>
+</p>
