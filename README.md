@@ -29,5 +29,5 @@
   ##
   
 <p align = "center"> 
-  <img height="400em" src="https://wakatime.com/share/@MatheusEli/4de27590-2ea1-479e-851b-5f6a80c5e68d.svg"/>
+  <img height="600em" src="https://wakatime.com/share/@MatheusEli/4de27590-2ea1-479e-851b-5f6a80c5e68d.svg"/>
 </p>
