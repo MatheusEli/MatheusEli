@@ -29,9 +29,7 @@
   ##
   
 <p align = "center"> 
-  <img height="180em" src="https://wakatime.com/share/@MatheusEli/c28cb44c-b75b-4145-bf23-db918a7da95b.svg"/>
+  <img height="350em" src="https://wakatime.com/share/@MatheusEli/c28cb44c-b75b-4145-bf23-db918a7da95b.svg"/>
+  <img height="350em" src="https://wakatime.com/share/@MatheusEli/2358a24b-fdfd-4cf6-848d-c0e3f5325e98.svg"/>
 </p>
 
- <p align = "center"> 
-  <img height="180em" src="https://wakatime.com/share/@MatheusEli/2358a24b-fdfd-4cf6-848d-c0e3f5325e98.svg"/>
-</p>
