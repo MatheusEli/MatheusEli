@@ -1,11 +1,5 @@
 
-## Olá, eu sou o Matheus Eli!
-#### 👩🏻‍💻 Estudante de ciência da computação<br>💻 Front-end e Desenvolvimento Mobile
-
-<a href="https://github.com/MatheusEli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusEli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEli&layout=compact&langs_count=8&theme=dark"/>
-<div style="display: inline_block"><br>
+  <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,20 +10,19 @@
   <img align="center" alt="Matheus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Matheus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Matheus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Matheus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
   
-  <div>
+  <div  align="center">
   <a href="https://www.linkedin.com/in/matheus-eli-ferreira-494656178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://account.xbox.com/en-us/profile?gamertag=Matheuseli" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
-
 
   ##
   
-<p> 
+<p  align="center"> 
   <img height="300em" src="https://wakatime.com/share/@MatheusEli/5cb949b4-1f22-4499-9160-68563bf3870f.svg"/>
   <img height="300em" src="https://wakatime.com/share/@MatheusEli/0de63f5d-5f18-4903-b6aa-e319065f01bd.svg"/>
 </p>
