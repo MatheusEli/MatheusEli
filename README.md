@@ -13,7 +13,13 @@
   <img align="center" alt="Matheus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+  ##
   
+  <div  align="center">
+ <a href="https://wakatime.com/@6460eaec-e176-4150-9862-e2aebe3768db"><img src="https://wakatime.com/badge/user/6460eaec-e176-4150-9862-e2aebe3768db.svg" alt="Total time coded since Apr 1 2021" /></a>
+</div>
+ 
   ##
   
   <div  align="center">
