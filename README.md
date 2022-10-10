@@ -12,6 +12,7 @@
   <img align="center" alt="Matheus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Matheus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
   ##
@@ -29,7 +30,7 @@
   ##
   
 <p  align="center"> 
-  <img height="300em" src="https://wakatime.com/share/@MatheusEli/b9705aab-eea9-426f-8860-00910f6a2a98.svg"/>
+  <img height="300em" src="https://wakatime.com/share/@MatheusEli/08eea048-2e95-4dc0-a9a5-3081586fcf5b.svg"/>
   <img height="300em" src="https://wakatime.com/share/@MatheusEli/0de63f5d-5f18-4903-b6aa-e319065f01bd.svg"/>
 </p>
 
