@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuseli" alt="matheuseli" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/matheuseli99" target="blank"><img src="https://img.shields.io/twitter/follow/matheuseli99?logo=twitter&style=for-the-badge" alt="matheuseli99" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and React**
 
@@ -20,9 +17,9 @@
 <a href="https://instagram.com/matheuseli12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheuseli12" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuseli&show_icons=true&locale=en" alt="matheuseli" /></p>
+##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuseli&" alt="matheuseli" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuseli&theme=dark" alt="matheuseli" /></p>
 
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
