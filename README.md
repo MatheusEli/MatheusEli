@@ -1,4 +1,29 @@
 
+<h1 align="center">Hi 👋, I'm Matheus Eli</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuseli" alt="matheuseli" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/matheuseli99" target="blank"><img src="https://img.shields.io/twitter/follow/matheuseli99?logo=twitter&style=for-the-badge" alt="matheuseli99" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter and React**
+
+- 📫 How to reach me **matheuseli12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/matheuseli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matheuseli" height="30" width="40" /></a>
+<a href="https://twitter.com/matheuseli99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheuseli99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus-eli-ferreira-494656178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-eli-ferreira-494656178" height="30" width="40" /></a>
+<a href="https://instagram.com/matheuseli12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheuseli12" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuseli&show_icons=true&locale=en" alt="matheuseli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuseli&" alt="matheuseli" /></p>
+
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -19,12 +44,6 @@
   
   <div  align="center">
  <a href="https://wakatime.com/@6460eaec-e176-4150-9862-e2aebe3768db"><img src="https://wakatime.com/badge/user/6460eaec-e176-4150-9862-e2aebe3768db.svg" alt="Total time coded since Apr 1 2021" /></a>
-</div>
- 
-  ##
-  
-  <div  align="center">
-  <a href="https://www.linkedin.com/in/matheus-eli-ferreira-494656178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
   ##
