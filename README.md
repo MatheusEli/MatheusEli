@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Eli</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<p align="center"><img align="center" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="javascript" width="600"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
 
 
