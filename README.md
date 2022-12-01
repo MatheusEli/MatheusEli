@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
 
 
 - 🌱 I’m currently learning **Flutter and React**
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/matheuseli99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheuseli99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheus-eli-ferreira-494656178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-eli-ferreira-494656178" height="30" width="40" /></a>
 <a href="https://instagram.com/matheuseli12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheuseli12" height="30" width="40" /></a>
-</p>
+</p>-->
 
 ##
 
