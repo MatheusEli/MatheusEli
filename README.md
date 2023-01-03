@@ -20,7 +20,6 @@
 
 ##
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuseli&theme=dark" alt="matheuseli" /></p>
 
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
