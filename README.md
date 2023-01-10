@@ -2,21 +2,15 @@
 <h1 align="center">Hi 👋, I'm Matheus Eli</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
+##
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuseli&label=Profile%20views&color=0e75b6&style=flat" alt="matheuseli" /> </p>
 
+<div style="display: inline_block;" align="center">
 
-- 🌱 I’m currently learning **Flutter and React**
+   🌱 I’m currently learning **Flutter and React**
 
-- 📫 How to reach me **matheuseli12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/matheuseli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matheuseli" height="30" width="40" /></a>
-<a href="https://twitter.com/matheuseli99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheuseli99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matheus-eli-ferreira-494656178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-eli-ferreira-494656178" height="30" width="40" /></a>
-<a href="https://instagram.com/matheuseli12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheuseli12" height="30" width="40" /></a>
-</p>-->
+   📫 How to reach me **matheuseli12@gmail.com**
+</div>
 
 ##
 
