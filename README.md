@@ -7,7 +7,7 @@
 
 <div style="display: inline_block;" align="center">
 
-   🌱 I’m currently learning **Flutter and React**
+   🌱 I’m currently learning **React and Redux**
 
    📫 How to reach me **matheuseli12@gmail.com**
 </div>
