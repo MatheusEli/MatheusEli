@@ -7,7 +7,7 @@
 
 <div style="display: inline_block;" align="center">
 
-   🌱 I’m currently learning **React and Redux**
+   🌱 I’m currently learning **React Testing Library**
 
    📫 How to reach me **matheuseli12@gmail.com**
 </div>
