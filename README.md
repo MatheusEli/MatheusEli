@@ -7,7 +7,7 @@
 
 <div style="display: inline_block;" align="center">
 
-   🌱 I’m currently learning **Web Accessibility**
+   🌱 I’m currently learning **Next.js**
 
    📫 How to reach me **matheuseli12@gmail.com**
 </div>
