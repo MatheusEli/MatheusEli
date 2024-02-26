@@ -7,7 +7,7 @@
 
 <div style="display: inline_block;" align="center">
 
-   🌱 I’m currently learning **Next.js**
+   🌱 I’m currently learning **Next.js** & **Design System**
 
    📫 How to reach me **matheuseli12@gmail.com**
 </div>
