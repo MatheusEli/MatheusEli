@@ -1,14 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Matheus Eli</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h1 align="center">Hi, I'm Matheus Eli</h1>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 ##
 
 
 <div style="display: inline_block;" align="center">
-
-   🌱 I’m currently learning **Next.js** & **Design System**
-
    📫 How to reach me **matheuseli12@gmail.com**
 </div>
 
