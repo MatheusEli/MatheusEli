@@ -6,7 +6,7 @@
 
 
 <div style="display: inline_block;" align="center">
-   📫 How to reach me **matheuseli12@gmail.com**
+   📫 How to reach me matheuseli12@gmail.com
 </div>
 
 ##
